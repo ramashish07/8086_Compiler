@@ -3,8 +3,7 @@
 <html>
 To Run the above project first clone this repository in your environment : 
 
-command : git clone https://github.com/adijha29/8086-Simulator-CPP.git
-
+- Clone the project 
 installation of makefile tools on your environment :
 
 
